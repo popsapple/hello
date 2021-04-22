@@ -1,5 +1,5 @@
 package calc
 
-func Sum(a int, b int) {
+func Sum(a int, b int) int {
 	return a + b;
 }
