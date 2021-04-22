@@ -1,7 +1,7 @@
 package main
 
 import (
-	"popsapple.com/learn/calc"
+	"github.com/popsapple/hello/pkg/calc"
 	"fmt"
 )
 
